@@ -1,5 +1,5 @@
 assembly-versioning-scheme: MajorMinorPatchTag
-assembly-informational-format: '{FullSemVer}.Sha.{Sha}'
+assembly-informational-format: '{FullSemVer}.{BranchName}.Sha.{Sha}'
 mode: ContinuousDelivery
 continuous-delivery-fallback-tag: ci
 tag-prefix: '[vV]'
