@@ -6,7 +6,6 @@ using System.Text.RegularExpressions;
 using CommandLine;
 using CommandLine.Text;
 using NLog;
-using NPOI.HSSF.UserModel;
 using NPOI.XSSF.UserModel;
 
 namespace UserListCleaner
